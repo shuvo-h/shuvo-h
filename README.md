@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Socket.IO, React Native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-shuvo.web.app/](https://portfolio-shuvo.web.app/)
+- 👨‍💻 All of my projects are available at [All Projects](https://portfolio-shuvo.web.app/projects)
 
 - 💬 Ask me about **Javascript, React.js, MongoDB, Socket.IO**
 
 - 📫 How to reach me **shuvoh38@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XiPEglYQ0fvpUPxeAmMjYXTrzvLJNwPD/view?usp=sharing](https://drive.google.com/file/d/1XiPEglYQ0fvpUPxeAmMjYXTrzvLJNwPD/view?usp=sharing)
+- 📄 Download my [Resume](https://drive.google.com/file/d/1XiPEglYQ0fvpUPxeAmMjYXTrzvLJNwPD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
