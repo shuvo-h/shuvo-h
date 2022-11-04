@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo Haldar</h1>
 <h3 align="center">A passionate MERN-Stack developer who likes to work with JavaScript, React.js, Node.js among others.</h3>
 
-- 🔭 I’m currently working on [BackMeLink](https://goshop.vercel.app/)
+- 🔭 I’m currently working on [Go Shop](https://goshop.vercel.app/)
 
 - 🌱 I’m currently learning **NextJS, React Query**
 
