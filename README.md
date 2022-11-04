@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shuvo Haldar</h1>
 <h3 align="center">A passionate MERN-Stack developer who likes to work with JavaScript, React.js, Node.js among others.</h3>
 
-- 🔭 I’m currently working on [BackMeLink](https://back-me-link-2.web.app/)
+- 🔭 I’m currently working on [BackMeLink](https://goshop.vercel.app/)
 
-- 🌱 I’m currently learning **Socket.IO, React Native**
+- 🌱 I’m currently learning **NextJS, React Query**
 
-- 👨‍💻 All of my projects are available at [All Projects](https://portfolio-shuvo.web.app/projects)
+- 👨‍💻 All of my projects are available at [All Projects](https://www.shuvohaldar.com/)
 
-- 💬 Ask me about **Javascript, React.js, MongoDB, Socket.IO**
+- 💬 Ask me about **Javascript, React.js, MongoDB, Node.js**
 
 - 📫 How to reach me **shuvoh38@gmail.com**
 
