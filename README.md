@@ -25,6 +25,7 @@ I'm Shuvo Haldar, a frontend engineer with a passion for creating beautiful and 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-00af0f?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 
 
 ### APIs
