@@ -41,10 +41,8 @@ I'm Shuvo Haldar, a frontend engineer with a passion for creating beautiful and 
 ![Jest](https://img.shields.io/badge/-Jest-ff8080?style=flat-square&logo=jest&logoColor=blue)
 
  <! ---  
- 
 ## GitHub Stats
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuvo-h&show_icons=true&theme=radical)](https://github.com/shuvo-h/github-readme-stats)
-
 --->
 
 ## Top Languages
