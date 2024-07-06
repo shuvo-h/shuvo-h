@@ -79,3 +79,4 @@
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuvo-h&show_icons=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shuvo-h&theme=midnight_purple) -->
