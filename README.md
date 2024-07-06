@@ -6,7 +6,7 @@ I'm Shuvo Haldar, a frontend engineer with a passion for creating beautiful and 
 - 🌱 I’m currently learning vue.js and react-native.
 - 👯 I’m looking to collaborate on any open source project related to my skills.
 - 💬 Ask me about anything web development related, I'm happy to help!
-- 📫 How to reach me: [Portfolio](https://www.shuvohaldar.com/), [LinkedIn](https://www.linkedin.com/in/shuvo-haldar/).
+- 📫 How to reach me: [Portfolio](https://www.shuvohaldar.com/), [LinkedIn](https://www.linkedin.com/in/shuvo-haldar/), [shuvoh38@gmail.com](shuvoh38@gmail.com) .
 
 
 ## Skills
