@@ -1,14 +1,41 @@
+![Project Logo](https://raw.githubusercontent.com/shuvo-h/shuvo-h/main/asset/sh_banner_2024.png)
 
 
-# Hi there! 👋
+<h3 align="left">I am a Fullstack developer 👋</h3>
+<p align="left">
+  <a href="https://github.com/shuvo-h">
+    <img src="https://komarev.com/ghpvc/?username=shuvo-h" alt="page views" />
+  </a>
+  <a href="https://shuvo-haldar.vercel.app">
+    <img alt="Website" src="https://img.shields.io/website?url=https://shuvo-haldar.vercel.app/">
+  </a>
+  <!--
+  <a href="https://stackoverflow.com/users/4868262">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  -->
+  <a href="https://www.youtube.com/@proCodeZone">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCT7PcGQsCkwzYaU72oK1xmQ?style=flat&logo=youtube">
+  </a>
+  <a href="https://github.com/Macrshuvo-hoPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/shuvo-h?style=flat&logo=github">
+  </a>
+</p>
 
-I'm Shuvo Haldar, a frontend engineer with a passion for creating beautiful and functional websites and applications.
+<a href="#shuvo-h-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo-h&layout=compact&theme=radical&langs_count=8" style="max-width: 100%; height: auto;" alt="shuvo-h" align="right" />
+</a>
 
-## About Me
-- 🌱 I’m currently learning vue.js and react-native.
+
 - 👯 I’m looking to collaborate on any open source project related to my skills.
-- 💬 Ask me about anything web development related, I'm happy to help!
-- 📫 How to reach me: [Portfolio](https://www.shuvohaldar.com/), [LinkedIn](https://www.linkedin.com/in/shuvo-haldar/), [shuvoh38@gmail.com](shuvoh38@gmail.com) .
+- 🌱 &nbsp;I’m currently learning **React-native**
+- 🎤 &nbsp;I like to talk about **Javascript** and other **Programming Topics**
+- 🕮 &nbsp;Learn more about my projects on my **Profile**
+- 💬  &nbsp;Ask me anything on my email [shuvoh38@gmail.com](shuvoh38@gmail.com)
+- 🖥️ &nbsp;Connect with me on [Portfolio](https://shuvo-haldar.vercel.app/), [LinkedIn](https://www.linkedin.com/in/shuvo-haldar/)
+
+<br>
+
 
 
 ## Skills
@@ -28,6 +55,8 @@ I'm Shuvo Haldar, a frontend engineer with a passion for creating beautiful and 
 ![Express.js](https://img.shields.io/badge/-Express.js-00af0f?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=prisma&logoColor=green)
 
 
 ### APIs
@@ -42,5 +71,11 @@ I'm Shuvo Haldar, a frontend engineer with a passion for creating beautiful and 
 ![VPS](https://img.shields.io/badge/-VPS-61DBFB?style=flat-square&logo=linux&logoColor=blue)
 ![Jest](https://img.shields.io/badge/-Jest-ff8080?style=flat-square&logo=jest&logoColor=blue)
 
+<!--
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo-h&layout=compact&theme=radical&langs_count=8)](https://github.com/shuvo-h/github-readme-stats)
+-->
+
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuvo-h&show_icons=true&theme=transparent)
