@@ -1,3 +1,5 @@
+
+
 # Hi there! 👋
 
 I'm Shuvo Haldar, a frontend engineer with a passion for creating beautiful and functional websites and applications.
@@ -39,6 +41,6 @@ I'm Shuvo Haldar, a frontend engineer with a passion for creating beautiful and 
 ![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=nginx&logoColor=green)
 ![VPS](https://img.shields.io/badge/-VPS-61DBFB?style=flat-square&logo=linux&logoColor=blue)
 ![Jest](https://img.shields.io/badge/-Jest-ff8080?style=flat-square&logo=jest&logoColor=blue)
- 
+
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo-h&layout=compact&theme=radical&langs_count=8)](https://github.com/shuvo-h/github-readme-stats)
